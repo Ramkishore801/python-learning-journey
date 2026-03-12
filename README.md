@@ -1,2 +1,1 @@
-# python-learning-journey
-Daily Python learning exercises and small programs while mastering Python fundamentals.
+#Program to calculate the average of user-entered numbers using lists and loops.
